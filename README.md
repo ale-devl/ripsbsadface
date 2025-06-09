@@ -1,4 +1,4 @@
-# SweetieBot
+# SB
 
 ## Build Status
 
